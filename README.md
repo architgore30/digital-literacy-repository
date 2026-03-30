@@ -41,6 +41,7 @@ The objective of this project is to build essential digital skills, create a pro
 - Case study on UPI/Online Payment Fraud  
 - Created a “Stay Safe Online” checklist
 
+---
 
 ## 📚 Module Summaries
 
